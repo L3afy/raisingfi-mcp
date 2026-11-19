@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "raising": {
+      "url": "https://raising.fi/api/mcp"
+    }
+  }
+}
